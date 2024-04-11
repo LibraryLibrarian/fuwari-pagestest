@@ -24,7 +24,7 @@ const oklchToHex = (str) => {
 // https://astro.build/config
 export default defineConfig({
   site: "https://LibraryLibrarian.github.io",
-  base: "/dist/",
+  base: "/fuwari-pagestest",
   integrations: [
     tailwind(),
     swup({
